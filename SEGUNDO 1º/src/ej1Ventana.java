@@ -8,7 +8,7 @@ public class ej1Ventana extends JFrame {
 		System.out.println();
 		this.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
 		this.setTitle("Cerrar la ventana");
-		this.setSize(300,200);
+		this.setSize(400,200);
 		
 		
 		
